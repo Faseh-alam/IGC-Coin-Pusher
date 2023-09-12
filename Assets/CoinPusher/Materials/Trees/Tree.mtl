@@ -1,0 +1,8 @@
+newmtl Tree_texture
+map_Kd Tree_texture_Albedo.tga
+bump Tree_texture_NormalMap.png
+disp Tree_texture_HeightMap.png
+map_Ke Tree_texture_Emission.png
+Kd 0.875 0.875 0.875
+d 1
+

@@ -1,0 +1,10 @@
+newmtl Tree_Brown
+map_Kd -o 0 0 -s 1 1 Tile Brown.png
+Kd 1 1 1
+d 1
+
+newmtl Tree_Green_1
+map_Kd -o 0 0 -s 1 1 Tile Forest Green.png
+Kd 1 1 1
+d 1
+
